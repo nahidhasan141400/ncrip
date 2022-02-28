@@ -1,0 +1,19 @@
+{
+  "name": "ncrip",
+  "version": "1.0.0",
+  "description": "ncrip is Encryption program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahidhasan141400/ncrip.git"
+  },
+  "author": "nahid hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahidhasan141400/ncrip/issues"
+  },
+  "homepage": "https://github.com/nahidhasan141400/ncrip#readme"
+}
